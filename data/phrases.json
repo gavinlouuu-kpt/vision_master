@@ -1,0 +1,89 @@
+{
+    "phrases": [
+    {
+      "korean": "화장실이 어디예요?",
+      "english": "Where is the bathroom?",
+      "pronunciation": "Hwajangsil-i eodiyeyo?"
+    },
+    {
+      "korean": "지하철역이 어디예요?",
+      "english": "Where is the subway station?",
+      "pronunciation": "Jihacheoryeog-i eodiyeyo?"
+    },
+    {
+      "korean": "왼쪽",
+      "english": "Left",
+      "pronunciation": "Oenjjok"
+    },
+    {
+      "korean": "오른쪽",
+      "english": "Right",
+      "pronunciation": "Oreunjjok"
+    },
+    {
+      "korean": "직진",
+      "english": "Straight ahead",
+      "pronunciation": "Jikjin"
+    },
+    {
+      "korean": "얼마예요?",
+      "english": "How much is it?",
+      "pronunciation": "Eolmayeyo?"
+    },
+    {
+      "korean": "너무 비싸요",
+      "english": "It's too expensive",
+      "pronunciation": "Neomu bissayo"
+    },
+    {
+      "korean": "깎아 주세요",
+      "english": "Please give me a discount",
+      "pronunciation": "Kkakka juseyo"
+    },
+    {
+      "korean": "카드 되나요?",
+      "english": "Do you accept credit cards?",
+      "pronunciation": "Kadeu doenayo?"
+    },
+    {
+      "korean": "메뉴 주세요",
+      "english": "Menu please",
+      "pronunciation": "Menyu juseyo"
+    },
+    {
+      "korean": "물 주세요",
+      "english": "Water please",
+      "pronunciation": "Mul juseyo"
+    },
+    {
+      "korean": "맛있어요",
+      "english": "It's delicious",
+      "pronunciation": "Masisseoyo"
+    },
+    {
+      "korean": "매워요",
+      "english": "It's spicy",
+      "pronunciation": "Maewoyo"
+    },
+    {
+      "korean": "계산서 주세요",
+      "english": "Bill please",
+      "pronunciation": "Gyesanseo juseyo"
+    },
+    {
+      "korean": "도와주세요",
+      "english": "Help me please",
+      "pronunciation": "Dowa juseyo"
+    },
+    {
+      "korean": "아파요",
+      "english": "I'm sick/It hurts",
+      "pronunciation": "Apayo"
+    },
+    {
+      "korean": "병원이 어디예요?",
+      "english": "Where is the hospital?",
+      "pronunciation": "Byeongwon-i eodiyeyo?"
+    }
+    ]
+}
