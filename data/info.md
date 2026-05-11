@@ -1,0 +1,1 @@
+https://wiki.heltec.org/docs/devices/open-source-hardware/esp32-series/vision-master/vison-master-e290/
